@@ -4,7 +4,7 @@ PATH
     openlanes (0.1.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gem.coop/
   specs:
     ast (2.4.3)
     diff-lcs (1.6.2)
