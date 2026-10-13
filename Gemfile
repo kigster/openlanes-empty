@@ -11,3 +11,7 @@ gem "rake", ">= 13.0"
 gem "rspec"
 
 gem "rubocop"
+
+group :test, :development do 
+  gem 'yard'
+end
